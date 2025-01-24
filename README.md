@@ -36,6 +36,32 @@ A silly project where users can log in and create a list of dumb ways to die. Bu
 - Docker
 - GraphQL
 
+## Node Packages
+
+### Server-side (Express)
+- `express`: Web framework for Node.js
+- `mongoose`: MongoDB object modeling
+- `passport`: Authentication middleware
+- `passport-local`: Local strategy for Passport
+- `jsonwebtoken`: JSON Web Token implementation
+- `bcryptjs`: Password hashing
+- `cors`: Cross-Origin Resource Sharing
+- `dotenv`: Environment variable management
+- `socket.io`: Real-time communication
+- `graphql`: GraphQL implementation
+- `express-graphql`: GraphQL middleware for Express
+
+### Client-side (React)
+- `react`: React library
+- `react-dom`: React DOM bindings
+- `redux`: State management
+- `react-redux`: React bindings for Redux
+- `redux-thunk`: Middleware for Redux
+- `axios`: HTTP client
+- `socket.io-client`: Client for Socket.io
+- `tailwindcss`: Utility-first CSS framework
+- `jest`: Testing framework
+
 ## Getting Started
 
 ### Prerequisites
@@ -83,6 +109,16 @@ A silly project where users can log in and create a list of dumb ways to die. Bu
     ```
 
 4. Open your browser and navigate to `http://localhost:3000`
+
+## Folder Structure
+
+```
+dumbWaysToDie/
+├── client/         # React frontend
+├── server/         # Express backend
+├── README.md       # Project documentation
+└── package.json    # Project metadata
+```
 
 ## Contributing
 
