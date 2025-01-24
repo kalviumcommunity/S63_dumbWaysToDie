@@ -84,16 +84,6 @@ A silly project where users can log in and create a list of dumb ways to die. Bu
 
 4. Open your browser and navigate to `http://localhost:3000`
 
-## Folder Structure
-
-```
-dumbWaysToDie/
-├── client/         # React frontend
-├── server/         # Express backend
-├── README.md       # Project documentation
-└── package.json    # Project metadata
-```
-
 ## Contributing
 
 1. Fork the repository
