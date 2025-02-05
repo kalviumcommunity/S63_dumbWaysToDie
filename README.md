@@ -30,7 +30,7 @@ A silly project where users can log in and create a list of dumb ways to die. Bu
 
 ### Additional Technologies and Libraries
 - Redux
-- Socket.i
+- Socket.io
 - Passport.js
 - Mongoose
 - Tailwind CSS
