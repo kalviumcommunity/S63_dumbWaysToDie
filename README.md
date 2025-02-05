@@ -4,6 +4,8 @@ A silly project where users can log in and create a list of dumb ways to die. Bu
 
 ## Features
 
+<!-- kalvium -->
+
 - User authentication (login/register)
 - Create, read, update, and delete (CRUD) operations for lists
 - Responsive design
