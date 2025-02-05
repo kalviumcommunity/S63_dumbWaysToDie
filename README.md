@@ -1,6 +1,6 @@
 # Dumb Ways to Die
 
-A silly project where users can log in and create a list of dumb ways to die. Built with the MERN stack (MongoDB, Express, React, Node.js).
+A silly project where users can log in and create a list of dumb ways to die. Built with the MERN stack (MongoDB, Express, React, Node.js)
 
 ## Features
 
