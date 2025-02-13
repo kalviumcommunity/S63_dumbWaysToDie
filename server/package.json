@@ -6,7 +6,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "shvngishrma",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S63_dumbWaysToDie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S63_dumbWaysToDie/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S63_dumbWaysToDie#readme",
   "description": ""
 }
