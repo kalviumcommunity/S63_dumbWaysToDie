@@ -1,0 +1,19 @@
+{
+  "name": "s63_dumbwaystodie",
+  "version": "1.0.0",
+  "description": "This is your first repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S63_dumbWaysToDie.git"
+  },
+  "author": "shvngishrma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S63_dumbWaysToDie/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S63_dumbWaysToDie#readme"
+}
